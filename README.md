@@ -9,13 +9,23 @@ seamless integration with other Firebase and Google Cloud products, including
 Cloud Functions.
 
 This assignment covers below points:
+
 ● Creating a Web Application with,
-  ○ HTML
-  ○ CSS
-  ○ JavaScript
+
+○ HTML
+
+○ CSS
+
+○ JavaScript
+
 ● Connection of Firebase with ready built Web Application
-  ○ Firebase Project registration
-  ○ Use of Firebase SDK
-  ○ Installing Firebase CLI
-  ○ Establish the connection with Real time database
-  ○ Deploying the application
+
+○ Firebase Project registration
+
+○ Use of Firebase SDK
+
+○ Installing Firebase CLI
+
+○ Establish the connection with Real time database
+
+○ Deploying the application
